@@ -8,7 +8,7 @@
         Nama : Syifa Salsabilla
         <br>TTL : Duri, 04 Januari 2002
         <br>Jurusan : Teknik Informatika
-        
+
       </p>
       <div class="d-flex justify-content-center mb-5">
         <a class="btn btn-outline-primary mr-2" href="https://twitter.com/SyifaS_04?t=Hc67e-C1x1y-mIRYsdtj9Q&s=09"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
